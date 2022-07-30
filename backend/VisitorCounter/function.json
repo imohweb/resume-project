@@ -19,7 +19,7 @@ _{
         "name": "CosmosIn",
         "databaseName": "AzureResume",
         "collectionName": "VisitorCounter",
-        "connectionStringSetting": "azureresumecosmosdb_DOCUMENTDB",
+        "connectionStringSetting": "aznaijacosmos_DOCUMENTDB",
         "sqlQuery": "SELECT * FROM c WHERE c.id = \"1\"",
         "direction": "in",
         "type": "cosmosDB"
@@ -30,7 +30,7 @@ _{
         "type": "cosmosDB",
         "databaseName": "AzureResume",
         "collectionName": "VisitorCounter",
-        "connectionStringSetting": "azureresumecosmosdb_DOCUMENTDB"
+        "connectionStringSetting": "aznaijacosmos_DOCUMENTDB"
       }
     ]
   }
